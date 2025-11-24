@@ -1,0 +1,33 @@
+name: Update Data
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+on:
+  schedule:
+    - cron: "0 20 * * *"
+  push:
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate Data
+        run: bash generate-data.sh
+
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
