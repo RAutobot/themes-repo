@@ -87,6 +87,14 @@
     "kartoflu": {
         "everblush@main": [
             "themes/everblush"
+        ],
+        "midnight-espresso@main": [
+            "themes/midnight-espresso",
+            "themes/midnight-coffee"
+        ],
+        "norde@main": [
+            "themes/norde",
+            "themes/nord"
         ]
     },
     "catppuccin": {
@@ -138,6 +146,9 @@
     "OmegaSunkey": {
         "Aliucord-Official-Theme@main": [
             "Aliucord"
+        ],
+        "Atom-Theme@main": [
+            "atom"
         ]
     },
     "Starless-5338": {
@@ -170,13 +181,18 @@
             "RetroTheme",
             "ChromaGlow",
             "FireflyPlus",
-            "LandScape%2B"
+            "LandScape%2B",
+            "NorthenLightsBlue",
+            "NorthernLightsGreen"
         ],
         "Windows-11-Theme@main": [
             "Windows11Theme"
         ],
         "Windows-XP-Theme@main": [
             "WindowsXPTheme"
+        ],
+        "Gradient-Blue@main": [
+            "GradientBlue"
         ]
     },
     "porrinha09": {
@@ -225,6 +241,171 @@
     "mishan-ya": {
         "AliUwUcordTheme3000@main": [
             "OneColorMonet/one-color%20monet%202023%20%F0%9F%97%BF"
+        ]
+    },
+    "Yolout": {
+        "YolTheme@main": [
+            "ATMS(Copy)",
+            "MY"
+        ]
+    },
+    "VioletStorm": {
+        "aliucord-plugins@main": [
+            "Vixtra"
+        ]
+    },
+    "HireSwift": {
+        "Aliucord@main": [
+            "Themes/Better%20Call%20Saul/Bettercallsaul"
+        ]
+    },
+    "CelestialReaver": {
+        "Aliucord@main": [
+            "themes/Synthwave84/Synthwave84"
+        ]
+    },
+    "xafn": {
+        "Filter-Hexagon@main": [
+            "filterHexagon"
+        ]
+    },
+    "Drownbywind": {
+        "Aliu-Themes@main": [
+            "吾心似明月",
+            "LD_Adaptive_mu",
+            "light_pastel_purple"
+        ]
+    },
+    "peachey2k2": {
+        "aliucord-themes@main": [
+            "peatheme"
+        ]
+    },
+    "PetitJean1104": {
+        "Killer-Queen-@main": [
+            "KillerQueen"
+        ]
+    },
+    "suhan-paradkar": {
+        "Aliutheme@main": [
+            "Magenta_Light"
+        ]
+    },
+    "Arkaneel": {
+        "Aliucord-Arkaneel@main": [
+            "Themes/Valorant"
+        ]
+    },
+    "InioX": {
+        "P-CHY@main": [
+            "P-CHY"
+        ]
+    },
+    "WarishNet": {
+        "BreezeCord@main": [
+            "BreezeCord"
+        ]
+    },
+    "uebernihilist": {
+        "Adwaita@master": [
+            "Adwaita"
+        ]
+    },
+    "ahar2611": {
+        "Lanney-Themes@main": [
+            "Magenta%20WhatsCord",
+            "Whatscord"
+        ]
+    },
+    "HeyAllWaterHere": {
+        "aliucord-themes@main": [
+            "Linmint"
+        ]
+    },
+    "A-rhyna-H": {
+        "Material-Aliucord@main": [
+            "Material%20Aliucord"
+        ],
+        "Blurple-With-Purple@main": [
+            "Blurple%20With%20Purple"
+        ]
+    },
+    "Mateusussy210": {
+        "Rose-quartz@main": [
+            "Rose%20quartz"
+        ]
+    },
+    "neko-astolfo-uwu": {
+        "idk-theme@main": [
+            "Neko"
+        ]
+    },
+    "ZeldrexK0DE": {
+        "AliucordCosmicka@main": [
+            "Kai_Cosmicka"
+        ]
+    },
+    "ZeldrexK0DE": {
+        "AliucordCosmicka@main": [
+            "Kai_Cosmicka"
+        ]
+    },
+    "FunkyFight": {
+        "AliucordContent@main": [
+            "Themes/Kirby"
+        ]
+    },
+    "WhenFreedom": {
+        "Themes@main": [
+            "HelloKitty"
+        ]
+    },
+    "Ishikaze": {
+        "Aliucord-Themes@main": [
+            "Kaitekina%20shian/Kaitekina%20shian"
+        ]
+    },
+    "wtfexy": {
+        "Purple-Tea@main": [
+            "Purple%20Tea"
+        ]
+    },
+    "MeMChips": {
+        "gween-theme@main": [
+            "gween"
+        ]
+    },
+    "rose-pine": {
+        "aliucord@main": [
+            "RosePine"
+        ]
+    },
+    "Veis2015": {
+        "Veis-themes@main": [
+            "Kofibox"
+        ]
+    },
+    "gebwyd": {
+        "modern-triangle-theme@main": [
+            "modern"
+        ]
+    },
+    "skyluf": {
+        "Purple-Glass@main": [
+            "Purple%20Glass"
+        ],
+        "Emptiness-theme@main": [
+            "Emptiness"
+        ]
+    },
+    "MrSpidercat": {
+        "XDA-Forums-Theme@main": [
+            "XDA"
+        ]
+    },
+    "Blurripy": {
+        "The-Cosmonaute-In-The-Universe@main": [
+            "TheCosmonauteInTheUniverse"
         ]
     }
 }
