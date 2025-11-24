@@ -1,48 +1,48 @@
 {
     "nyctocervus": {
-        "magentabliss@main": [
+        "magentabliss/main": [
             "magenta_bliss"
         ]
     },
     "Sakiro64": {
-        "My-Aliucord-Themes@main": [
+        "My-Aliucord-Themes/main": [
             "HKTheme"
         ]
     },
     "LampDelivery": {
-        "DraculaDark@main": [
+        "DraculaDark/main": [
             "DraculaAfternoon",
             "DraculaEvening",
             "DraculaNight"
         ],
-        "HellDivers@main": [
+        "HellDivers/main": [
             "Helldivers"
         ]
     },
     "twixxty": {
-        "lampshade@main": [
+        "lampshade/main": [
             "lampshade"
         ],
-        "nycto@main": [
+        "nycto/main": [
             "nycto"
         ],
-        "YWGWYW@main": [
+        "YWGWYW/main": [
             "YWGWYW"
         ],
-        "Aliyoucord@main": [
+        "Aliyoucord/main": [
             "aliutransparentcord",
             "aliyoucord"
         ],
-        "Interstellar@main": [
+        "Interstellar/main": [
             "transparellar",
             "interstellar"
         ],
-        "darcandy@main": [
+        "darcandy/main": [
             "darcandy"
         ]
     },
     "omardotdev": {
-        "aliucord-themes@main": [
+        "aliucord-themes/main": [
             "themes/kanagawa-paper/canvas",
             "themes/kanagawa-paper/ink",
             "themes/twilight-moon/twilight-moon",
@@ -52,7 +52,7 @@
         ]
     },
     "everviolet": {
-        "aliucord@main": [
+        "aliucord/main": [
             "themes/evergarden-winter",
             "themes/evergarden-fall",
             "themes/evergarden-spring",
@@ -60,45 +60,45 @@
         ]
     },
     "TheFuZeeXD": {
-        "Aliucord-Themes@main": [
+        "Aliucord-Themes/main": [
             "Dyno%20Theme/dyno"
         ]
     },
     "Matko802": {
-        "backroundaliucordtheme@main": [
+        "backroundaliucordtheme/main": [
             "Discord%20Midnight%20theme"
         ]
     },
     "system32149": {
-        "aliucord-discordrn-dark@master": [
+        "aliucord-discordrn-dark/master": [
             "DiscordRN%20Dark"
         ]
     },
     "miwooscatrisadinha": {
-        "twilightblue@main": [
+        "twilightblue/main": [
             "Updater/Blue%20Twilight"
         ]
     },
     "HxppyBxrdxe": {
-        "Momotalk_Theme_Ailucord@main": [
+        "Momotalk_Theme_Ailucord/main": [
             "Theme/Momotalk%20(By%20Birdie)"
         ]
     },
     "kartoflu": {
-        "everblush@main": [
+        "everblush/main": [
             "themes/everblush"
         ],
-        "midnight-espresso@main": [
+        "midnight-espresso/main": [
             "themes/midnight-espresso",
             "themes/midnight-coffee"
         ],
-        "norde@main": [
+        "norde/main": [
             "themes/norde",
             "themes/nord"
         ]
     },
     "catppuccin": {
-        "aliucord@main": [
+        "aliucord/main": [
             "src/catppuccin-mocha-blue",
             "src/catppuccin-macchiato-blue",
             "src/catppuccin-frappe-blue",
@@ -106,74 +106,74 @@
         ]
     },
     "HatsiIvaMiku": {
-        "bergamot-mint@main": [
+        "bergamot-mint/main": [
             "bergamot-mint"
         ]
     },
     "rennpy": {
-        "TokyoNight@main": [
+        "TokyoNight/main": [
             "TokyoNight"
         ],
-        "Aliucord-Monokai@main": [
+        "Aliucord-Monokai/main": [
             "Machine",
             "Octagon",
             "Ristretto"
         ],
-        "niagara@main": [
+        "niagara/main": [
             "niagaralight",
             "niagara"
         ],
-        "hojicha-theme@main": [
+        "hojicha-theme/main": [
             "Hōjicha"
         ]
     },
     "myumichi": {
-        "slate@main": [
+        "slate/main": [
             "themes/slate"
         ],
-        "altitude@main": [
+        "altitude/main": [
             "themes/high-altitude",
             "themes/low-altitude"
         ],
-        "everforest@main": [
+        "everforest/main": [
             "themes/everforest-amoled",
             "themes/everforest"
         ],
-        "ataraxia-for-aliucord@main": [
+        "ataraxia-for-aliucord/main": [
             "themes/Ataraxia"
         ]
     },
     "OmegaSunkey": {
-        "Aliucord-Official-Theme@main": [
+        "Aliucord-Official-Theme/main": [
             "Aliucord"
         ],
-        "Atom-Theme@main": [
+        "Atom-Theme/main": [
             "atom"
         ]
     },
     "Starless-5338": {
-        "Aliucord-theme_Fallout-terminal@main": [
+        "Aliucord-theme_Fallout-terminal/main": [
             "FALLOUT_TERMINAL"
         ]
     },
     "ukivie": {
-        "aliucord-vencord-theme@main": [
+        "aliucord-vencord-theme/main": [
             "vencord-theme"
         ],
-        "blossom-aliucord-theme@main": [
+        "blossom-aliucord-theme/main": [
             "blossomed"
         ],
-        "uki-aliucord-theme@main": [
+        "uki-aliucord-theme/main": [
             "Cotton%20Candy"
         ]
     },
     "b3bro": {
-        "bebro-discord-theme@main": [
+        "bebro-discord-theme/main": [
             "gray-bebro"
         ]
     },
     "CaioAlbuquerque123": {
-        "My-Aliucord-Themes@main": [
+        "My-Aliucord-Themes/main": [
             "ye-Theme",
             "Windows98Theme",
             "NorthernLightsPurple",
@@ -185,226 +185,226 @@
             "NorthenLightsBlue",
             "NorthernLightsGreen"
         ],
-        "Windows-11-Theme@main": [
+        "Windows-11-Theme/main": [
             "Windows11Theme"
         ],
-        "Windows-XP-Theme@main": [
+        "Windows-XP-Theme/main": [
             "WindowsXPTheme"
         ],
-        "Gradient-Blue@main": [
+        "Gradient-Blue/main": [
             "GradientBlue"
         ]
     },
     "porrinha09": {
-        "aliucord-themes@main": [
+        "aliucord-themes/main": [
             "materialcord",
             "night%20street"
         ]
     },
     "DiosDonutSlave": {
-        "Jalurple@main": [
+        "Jalurple/main": [
             "Jalurple"
         ]
     },
     "Nirrzoom": {
-        "Cheeseys-repo@main": [
+        "Cheeseys-repo/main": [
             "Yellurple"
         ]
     },
     "DanielSpaniel8": {
-        "dotfiles@main": [
+        "dotfiles/main": [
             "Gruv"
         ]
     },
     "splatchoot": {
-        "AliucordGalacticTheme@main": [
+        "AliucordGalacticTheme/main": [
             "Planetarium"
         ]
     },
     "WeltFlowers": {
-        "Aliucord-themes@main": [
+        "Aliucord-themes/main": [
             "Wild%20Sunrise",
             "midnight%20blurple",
             "Crimson%20moon"
         ]
     },
     "VicKaoy": {
-        "VicKaoyAliuThemes@main": [
+        "VicKaoyAliuThemes/main": [
             "DarkWine"
         ]
     },
     "Halodoesanope": {
-        "SuperNova@main": [
+        "SuperNova/main": [
             "SuperNova%2B%2B"
         ]
     },
     "mishan-ya": {
-        "AliUwUcordTheme3000@main": [
+        "AliUwUcordTheme3000/main": [
             "OneColorMonet/one-color%20monet%202023%20%F0%9F%97%BF"
         ]
     },
     "Yolout": {
-        "YolTheme@main": [
+        "YolTheme/main": [
             "ATMS(Copy)",
             "MY"
         ]
     },
     "VioletStorm": {
-        "aliucord-plugins@main": [
+        "aliucord-plugins/main": [
             "Vixtra"
         ]
     },
     "HireSwift": {
-        "Aliucord@main": [
+        "Aliucord/main": [
             "Themes/Better%20Call%20Saul/Bettercallsaul"
         ]
     },
     "CelestialReaver": {
-        "Aliucord@main": [
+        "Aliucord/main": [
             "themes/Synthwave84/Synthwave84"
         ]
     },
     "xafn": {
-        "Filter-Hexagon@main": [
+        "Filter-Hexagon/main": [
             "filterHexagon"
         ]
     },
     "Drownbywind": {
-        "Aliu-Themes@main": [
+        "Aliu-Themes/main": [
             "吾心似明月",
             "LD_Adaptive_mu",
             "light_pastel_purple"
         ]
     },
     "peachey2k2": {
-        "aliucord-themes@main": [
+        "aliucord-themes/main": [
             "peatheme"
         ]
     },
     "PetitJean1104": {
-        "Killer-Queen-@main": [
+        "Killer-Queen-/main": [
             "KillerQueen"
         ]
     },
     "suhan-paradkar": {
-        "Aliutheme@main": [
+        "Aliutheme/main": [
             "Magenta_Light"
         ]
     },
     "Arkaneel": {
-        "Aliucord-Arkaneel@main": [
+        "Aliucord-Arkaneel/main": [
             "Themes/Valorant"
         ]
     },
     "InioX": {
-        "P-CHY@main": [
+        "P-CHY/main": [
             "P-CHY"
         ]
     },
     "WarishNet": {
-        "BreezeCord@main": [
+        "BreezeCord/main": [
             "BreezeCord"
         ]
     },
     "uebernihilist": {
-        "Adwaita@master": [
+        "Adwaita/master": [
             "Adwaita"
         ]
     },
     "ahar2611": {
-        "Lanney-Themes@main": [
+        "Lanney-Themes/main": [
             "Magenta%20WhatsCord",
             "Whatscord"
         ]
     },
     "HeyAllWaterHere": {
-        "aliucord-themes@main": [
+        "aliucord-themes/main": [
             "Linmint"
         ]
     },
     "A-rhyna-H": {
-        "Material-Aliucord@main": [
+        "Material-Aliucord/main": [
             "Material%20Aliucord"
         ],
-        "Blurple-With-Purple@main": [
+        "Blurple-With-Purple/main": [
             "Blurple%20With%20Purple"
         ]
     },
     "Mateusussy210": {
-        "Rose-quartz@main": [
+        "Rose-quartz/main": [
             "Rose%20quartz"
         ]
     },
     "neko-astolfo-uwu": {
-        "idk-theme@main": [
+        "idk-theme/main": [
             "Neko"
         ]
     },
     "ZeldrexK0DE": {
-        "AliucordCosmicka@main": [
+        "AliucordCosmicka/main": [
             "Kai_Cosmicka"
         ]
     },
     "ZeldrexK0DE": {
-        "AliucordCosmicka@main": [
+        "AliucordCosmicka/main": [
             "Kai_Cosmicka"
         ]
     },
     "FunkyFight": {
-        "AliucordContent@main": [
+        "AliucordContent/main": [
             "Themes/Kirby"
         ]
     },
     "WhenFreedom": {
-        "Themes@main": [
+        "Themes/main": [
             "HelloKitty"
         ]
     },
     "Ishikaze": {
-        "Aliucord-Themes@main": [
+        "Aliucord-Themes/main": [
             "Kaitekina%20shian/Kaitekina%20shian"
         ]
     },
     "wtfexy": {
-        "Purple-Tea@main": [
+        "Purple-Tea/main": [
             "Purple%20Tea"
         ]
     },
     "MeMChips": {
-        "gween-theme@main": [
+        "gween-theme/main": [
             "gween"
         ]
     },
     "rose-pine": {
-        "aliucord@main": [
+        "aliucord/main": [
             "RosePine"
         ]
     },
     "Veis2015": {
-        "Veis-themes@main": [
+        "Veis-themes/main": [
             "Kofibox"
         ]
     },
     "gebwyd": {
-        "modern-triangle-theme@main": [
+        "modern-triangle-theme/main": [
             "modern"
         ]
     },
     "skyluf": {
-        "Purple-Glass@main": [
+        "Purple-Glass/main": [
             "Purple%20Glass"
         ],
-        "Emptiness-theme@main": [
+        "Emptiness-theme/main": [
             "Emptiness"
         ]
     },
     "MrSpidercat": {
-        "XDA-Forums-Theme@main": [
+        "XDA-Forums-Theme/main": [
             "XDA"
         ]
     },
     "Blurripy": {
-        "The-Cosmonaute-In-The-Universe@main": [
+        "The-Cosmonaute-In-The-Universe/main": [
             "TheCosmonauteInTheUniverse"
         ]
     }

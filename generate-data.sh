@@ -10,7 +10,7 @@ jq -r '
     repo="$2"
     path="$3"
 
-    url="https://cdn.jsdelivr.net/gh/$author/$repo/$path.json"
+    url="https://cdn.statically.io/gh/$author/$repo/$path.json"
     repoUrl="https://github.com/$author/${repo%%@*}"
     filename="${path##*/}.json"
 
