@@ -14,5 +14,5 @@ jq -r '
     repoUrl="https://github.com/$author/${repo%%@*}"
     filename="${path##*/}.json"
 
-    curl -s "$url" | jq -c --arg url "$url" --arg repoUrl "$repoUrl" --arg filename "$filename" '\''.manifest | { name, version, author, url: $url, repoUrl: $repoUrl, filename: $filename }'\''
+    curl -sSL "$url" | jq -c --arg url "$url" --arg repoUrl "$repoUrl" --arg filename "$filename" '\''.manifest | { name, version, author, url: $url, repoUrl: $repoUrl, filename: $filename }'\''
 ' _ | jq -s 'sort_by(.name)' > public/data.json
