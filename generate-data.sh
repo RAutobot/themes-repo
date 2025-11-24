@@ -12,9 +12,9 @@ jq -r '
 
     url="https://cdn.statically.io/gh/$author/$repo/$path.json"
     repoUrl="https://github.com/$author/${repo%/*}"
-    filename="${path##*/}.json"
+    filename="${path##*/}"
 
     printf "Processing: $author/$repo/$path\n" >&2
 
-    curl -sSL "$url" | jq -c --arg author "$author" --arg url "$url" --arg repoUrl "$repoUrl" --arg filename "$filename" '\''.manifest | { name: (.name // "Unknown"), version: (.version // "Unknown"), author: (.author // $author // "Unknown"), url: $url, repoUrl: $repoUrl, filename: $filename }'\''
+    curl -sSL "$url" | jq -c --arg author "$author" --arg url "$url" --arg repoUrl "$repoUrl" --arg filename "$filename" '\''.manifest | { name: (.name // $filename), version: (.version // "1.0.0"), author: (.author // $author), url: $url, repoUrl: $repoUrl, filename: "\($filename).json" }'\''
 ' _ | jq -s 'sort_by(.name)' > public/data.json
