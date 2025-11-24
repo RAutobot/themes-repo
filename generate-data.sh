@@ -11,7 +11,7 @@ jq -r '
     path="$3"
 
     url="https://cdn.statically.io/gh/$author/$repo/$path.json"
-    repoUrl="https://github.com/$author/${repo%%@*}"
+    repoUrl="https://github.com/$author/${repo%/*}"
     filename="${path##*/}.json"
 
     printf "Processing: $author/$repo/$path\n" >&2
