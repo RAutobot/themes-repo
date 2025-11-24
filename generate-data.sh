@@ -16,5 +16,5 @@ jq -r '
 
     printf "Processing: $author/$repo/$path\n" >&2
 
-    curl -sSL "$url" | jq -c --arg url "$url" --arg repoUrl "$repoUrl" --arg filename "$filename" '\''.manifest | { name: (.name // "Unknown"), version: (.version // "Unknown"), author: (.author // "Unknown"), url: $url, repoUrl: $repoUrl, filename: $filename }'\''
+    curl -sSL "$url" | jq -c --arg author "$author" --arg url "$url" --arg repoUrl "$repoUrl" --arg filename "$filename" '\''.manifest | { name: (.name // "Unknown"), version: (.version // "Unknown"), author: (.author // $author // "Unknown"), url: $url, repoUrl: $repoUrl, filename: $filename }'\''
 ' _ | jq -s 'sort_by(.name)' > public/data.json
