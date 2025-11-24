@@ -163,7 +163,68 @@
     },
     "CaioAlbuquerque123": {
         "My-Aliucord-Themes@main": [
-            "ye-Theme"
+            "ye-Theme",
+            "Windows98Theme",
+            "NorthernLightsPurple",
+            "%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%E3%82%AB%E3%83%A9%E3%83%BC",
+            "RetroTheme",
+            "ChromaGlow",
+            "FireflyPlus",
+            "LandScape%2B"
+        ],
+        "Windows-11-Theme@main": [
+            "Windows11Theme"
+        ],
+        "Windows-XP-Theme@main": [
+            "WindowsXPTheme"
+        ]
+    },
+    "porrinha09": {
+        "aliucord-themes@main": [
+            "materialcord",
+            "night%20street"
+        ]
+    },
+    "DiosDonutSlave": {
+        "Jalurple@main": [
+            "Jalurple"
+        ]
+    },
+    "Nirrzoom": {
+        "Cheeseys-repo@main": [
+            "Yellurple"
+        ]
+    },
+    "DanielSpaniel8": {
+        "dotfiles@main": [
+            "Gruv"
+        ]
+    },
+    "splatchoot": {
+        "AliucordGalacticTheme@main": [
+            "Planetarium"
+        ]
+    },
+    "WeltFlowers": {
+        "Aliucord-themes@main": [
+            "Wild%20Sunrise",
+            "midnight%20blurple",
+            "Crimson%20moon"
+        ]
+    },
+    "VicKaoy": {
+        "VicKaoyAliuThemes@main": [
+            "DarkWine"
+        ]
+    },
+    "Halodoesanope": {
+        "SuperNova@main": [
+            "SuperNova%2B%2B"
+        ]
+    },
+    "mishan-ya": {
+        "AliUwUcordTheme3000@main": [
+            "OneColorMonet/one-color%20monet%202023%20%F0%9F%97%BF"
         ]
     }
 }
