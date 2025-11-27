@@ -553,6 +553,11 @@
             "Aliucord-AMOLED-Theme/main": [
                 "DiscordThemer_Amoled"
             ]
+        },
+        "vicefriedrice": {
+            "MatuNight/main": [
+                "MatuNight"
+            ]
         }
     },
     "gl": {
