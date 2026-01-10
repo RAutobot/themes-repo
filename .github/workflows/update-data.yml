@@ -1,0 +1,40 @@
+name: Update Data
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate Data
+        run: bash generate-data.sh
+
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: update-data
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

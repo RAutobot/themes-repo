@@ -1,0 +1,644 @@
+{
+    "gh": {
+        "nyctocervus": {
+            "magentabliss/main": [
+                "magenta_bliss"
+            ]
+        },
+        "Sakiro64": {
+            "My-Aliucord-Themes/main": [
+                "HKTheme"
+            ]
+        },
+        "LampDelivery": {
+            "DraculaDark/main": [
+                "DraculaAfternoon",
+                "DraculaEvening",
+                "DraculaNight"
+            ],
+            "HellDivers/main": [
+                "Helldivers"
+            ],
+            "materii/main": [
+                "materii"
+            ]
+        },
+        "twixxty": {
+            "lampshade/main": [
+                "lampshade"
+            ],
+            "nycto/main": [
+                "nycto"
+            ],
+            "YWGWYW/main": [
+                "YWGWYW"
+            ],
+            "Aliyoucord/main": [
+                "aliutransparentcord",
+                "aliyoucord"
+            ],
+            "Interstellar/main": [
+                "transparellar",
+                "interstellar"
+            ],
+            "darcandy/main": [
+                "darcandy"
+            ]
+        },
+        "omardotdev": {
+            "aliucord-themes/main": [
+                "themes/kanagawa-paper/canvas",
+                "themes/kanagawa-paper/ink",
+                "themes/twilight-moon/twilight-moon",
+                "themes/kanagawa/kanagawa-lotus",
+                "themes/kanagawa/kanagawa-dragon",
+                "themes/kanagawa/kanagawa"
+            ]
+        },
+        "everviolet": {
+            "aliucord/main": [
+                "themes/evergarden-winter",
+                "themes/evergarden-fall",
+                "themes/evergarden-spring",
+                "themes/evergarden-summer"
+            ]
+        },
+        "TheFuZeeXD": {
+            "Aliucord-Themes/main": [
+                "Dyno%20Theme/dyno"
+            ]
+        },
+        "Matko802": {
+            "backroundaliucordtheme/main": [
+                "Discord%20Midnight%20theme"
+            ]
+        },
+        "system32149": {
+            "aliucord-discordrn-dark/master": [
+                "DiscordRN%20Dark"
+            ]
+        },
+        "miwooscatrisadinha": {
+            "twilightblue/main": [
+                "Updater/Blue%20Twilight"
+            ]
+        },
+        "HxppyBxrdxe": {
+            "Momotalk_Theme_Ailucord/main": [
+                "Theme/Momotalk%20(By%20Birdie)"
+            ]
+        },
+        "kartoflu": {
+            "everblush/main": [
+                "themes/everblush"
+            ],
+            "midnight-espresso/main": [
+                "themes/midnight-espresso",
+                "themes/midnight-coffee"
+            ],
+            "norde/main": [
+                "themes/norde",
+                "themes/nord"
+            ]
+        },
+        "catppuccin": {
+            "aliucord/main": [
+                "src/catppuccin-mocha-blue",
+                "src/catppuccin-macchiato-blue",
+                "src/catppuccin-frappe-blue",
+                "src/catppuccin-latte-blue"
+            ]
+        },
+        "HatsiIvaMiku": {
+            "bergamot-mint/main": [
+                "bergamot-mint"
+            ]
+        },
+        "rennpy": {
+            "TokyoNight/main": [
+                "TokyoNight"
+            ],
+            "Aliucord-Monokai/main": [
+                "Machine",
+                "Octagon",
+                "Ristretto"
+            ],
+            "niagara/main": [
+                "niagaralight",
+                "niagara"
+            ],
+            "hojicha-theme/main": [
+                "Hōjicha"
+            ]
+        },
+        "myumichi": {
+            "slate/main": [
+                "themes/slate"
+            ],
+            "altitude/main": [
+                "themes/high-altitude",
+                "themes/low-altitude"
+            ],
+            "everforest/main": [
+                "themes/everforest-amoled",
+                "themes/everforest"
+            ],
+            "ataraxia-for-aliucord/main": [
+                "themes/Ataraxia"
+            ]
+        },
+        "OmegaSunkey": {
+            "Aliucord-Official-Theme/main": [
+                "Aliucord"
+            ]
+        },
+        "Starless-5338": {
+            "Aliucord-theme_Fallout-terminal/main": [
+                "FALLOUT_TERMINAL"
+            ]
+        },
+        "ukivie": {
+            "aliucord-vencord-theme/main": [
+                "vencord-theme"
+            ],
+            "blossom-aliucord-theme/main": [
+                "blossomed"
+            ]
+        },
+        "b3bro": {
+            "bebro-discord-theme/main": [
+                "gray-bebro"
+            ]
+        },
+        "CaioAlbuquerque123": {
+            "My-Aliucord-Themes/main": [
+                "ye-Theme",
+                "NorthernLightsPurple",
+                "%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%E3%82%AB%E3%83%A9%E3%83%BC",
+                "RetroTheme",
+                "ChromaGlow",
+                "FireflyPlus"
+            ]
+        },
+        "porrinha09": {
+            "aliucord-themes/main": [
+                "materialcord"
+            ]
+        },
+        "Nirrzoom": {
+            "Cheeseys-repo/main": [
+                "Yellurple"
+            ]
+        },
+        "DanielSpaniel8": {
+            "dotfiles/main": [
+                "Gruv"
+            ]
+        },
+        "VicKaoy": {
+            "VicKaoyAliuThemes/main": [
+                "DarkWine"
+            ]
+        },
+        "mishan-ya": {
+            "AliUwUcordTheme3000/main": [
+                "OneColorMonet/one-color%20monet%202023%20%F0%9F%97%BF"
+            ]
+        },
+        "Yolout": {
+            "YolTheme/main": [
+                "MY"
+            ]
+        },
+        "HireSwift": {
+            "Aliucord/main": [
+                "Themes/Better%20Call%20Saul/Bettercallsaul"
+            ]
+        },
+        "CelestialReaver": {
+            "Aliucord/main": [
+                "themes/Synthwave84/Synthwave84"
+            ]
+        },
+        "Drownbywind": {
+            "Aliu-Themes/main": [
+                "吾心似明月",
+                "LD_Adaptive_mu",
+                "light_pastel_purple",
+                "samurai_doge"
+            ]
+        },
+        "PetitJean1104": {
+            "Killer-Queen-/main": [
+                "KillerQueen"
+            ]
+        },
+        "suhan-paradkar": {
+            "Aliutheme/main": [
+                "Magenta_Light"
+            ]
+        },
+        "Arkaneel": {
+            "Aliucord-Arkaneel/main": [
+                "Themes/Valorant"
+            ]
+        },
+        "InioX": {
+            "P-CHY/main": [
+                "P-CHY"
+            ]
+        },
+        "uebernihilist": {
+            "Adwaita/master": [
+                "Adwaita"
+            ]
+        },
+        "HeyAllWaterHere": {
+            "aliucord-themes/main": [
+                "Linmint"
+            ]
+        },
+        "Mateusussy210": {
+            "Rose-quartz/main": [
+                "Rose%20quartz"
+            ]
+        },
+        "ZeldrexK0DE": {
+            "AliucordCosmicka/main": [
+                "Kai_Cosmicka"
+            ]
+        },
+        "WhenFreedom": {
+            "Themes/main": [
+                "HelloKitty"
+            ]
+        },
+        "Ishikaze": {
+            "Torii/main": [
+                "torii"
+            ]
+        },
+        "wtfexy": {
+            "Purple-Tea/main": [
+                "Purple%20Tea"
+            ]
+        },
+        "rose-pine": {
+            "aliucord/main": [
+                "RosePine"
+            ]
+        },
+        "Veis2015": {
+            "Veis-themes/main": [
+                "Kofibox",
+                "purplecomfy",
+                "pinkcomfy"
+            ]
+        },
+        "gebwyd": {
+            "modern-triangle-theme/main": [
+                "modern"
+            ]
+        },
+        "skyluf": {
+            "Purple-Glass/main": [
+                "Purple%20Glass"
+            ]
+        },
+        "MrSpidercat": {
+            "XDA-Forums-Theme/main": [
+                "XDA"
+            ],
+            "Matu/main": [
+                "matu-dark"
+            ]
+        },
+        "Paol-M": {
+            "aliucord/main": [
+                "Black%20x%20Blue/blackXblue",
+                "blurple-blue",
+                "CyanTheme"
+            ]
+        },
+        "Isadora-URSS": {
+            "Aliucord-themes/main": [
+                "Use%20Your%20Illusion%20II/Use%20Your%20Illusion%20II",
+                "Use%20Your%20Illusion%20I/Use%20Your%20Illusion%20I",
+                "Nico%20Robin%20(STAMPEDE)/Nico%20Robin%20(STAMPEDE)"
+            ]
+        },
+        "RhyMegu": {
+            "MiscThemes/main": [
+                "AliuHub/AliuHub",
+                "yotsuba/yotsuba"
+            ],
+            "DarkDiscordRedux/main": [
+                "DDMGplus",
+                "DDMG",
+                "DDGOplus",
+                "DDGO",
+                "DDCYplus",
+                "DDCY"
+            ]
+        },
+        "snappyapple632": {
+            "Zuneify/main": [
+                "Zuneify"
+            ]
+        },
+        "roseliine": {
+            "de_mairans_nebula/main": [
+                "de_mairans_nebula"
+            ],
+            "rosette_nebula/main": [
+                "rosette_nebula"
+            ],
+            "deep-blue-discord/main": [
+                "deep_blue_discord"
+            ]
+        },
+        "YahirAguilera": {
+            "northern-lights-aliucord-theme/main": [
+                "Northern%20Lights"
+            ],
+            "usada-pekora-aliucord-theme/main": [
+                "Usada%20Pekora"
+            ]
+        },
+        "MarsyChan": {
+            "uvu/main": [
+                "uvu"
+            ]
+        },
+        "teshi9459": {
+            "Aliucord_nightcat_theme/main": [
+                "nightcat"
+            ]
+        },
+        "saifhakem": {
+            "hachi-an-aliucord-theme/main": [
+                "hachi"
+            ]
+        },
+        "riyukuro": {
+            "Aliucord-MidnightDusk/main": [
+                "MidnightDusk"
+            ]
+        },
+        "TheRealGWJosh": {
+            "KIA/main": [
+                "src/app/Aliucord/KIA"
+            ]
+        },
+        "KindaColdNGL": {
+            "Themes/main": [
+                "GreenLee"
+            ]
+        },
+        "taskylizard": {
+            "aliuwucord/main": [
+                "Zen",
+                "Dispersion",
+                "Crystal"
+            ]
+        },
+        "cyriotic3": {
+            "Rogue/main": [
+                "Rogue"
+            ]
+        },
+        "ShiroBlank": {
+            "AliucordThemes/main": [
+                "pop_funk"
+            ]
+        },
+        "17sh": {
+            "139/main": [
+                "139"
+            ]
+        },
+        "ellaxx16": {
+            "AliucordThemes/main": [
+                "NightSky",
+                "PinkClouds",
+                "AliuVision"
+            ]
+        },
+        "PolicyThemes": {
+            "Aliucord-Themes/main": [
+                "policy"
+            ]
+        },
+        "edgess73": {
+            "nltheme/main": [
+                "nl"
+            ]
+        },
+        "ceferix": {
+            "alucordthemes/main": [
+                "itsoctoberbitches",
+                "materialbluerevamp"
+            ]
+        },
+        "ItsHanibee": {
+            "Hans-AliucordThemes/main": [
+                "(Eye%20Candy)",
+                "Stylized%20Greyscale",
+                "VWGolf_Harlequin"
+            ]
+        },
+        "pekoexe": {
+            "AliucordThemes/main": [
+                "CreArts"
+            ]
+        },
+        "kuromerrow": {
+            "MerroonGold/main": [
+                "merroongold"
+            ]
+        },
+        "cyriotic3": {
+            "Twitch/main": [
+                "Twitch"
+            ],
+            "RoguePlus/main": [
+                "RoguePlus"
+            ],
+            "Haste/main": [
+                "Haste"
+            ]
+        },
+        "delay-lag": {
+            "gruvboxcord/master": [
+                "Gruvbox"
+            ]
+        },
+        "Velcorn": {
+            "Aliucord/main": [
+                "themes/Amoled%2B"
+            ]
+        },
+        "rykakashi": {
+            "lonelytheme/main": [
+                "Lonelytheme"
+            ],
+            "purplecord/main": [
+                "purplecord"
+            ]
+        },
+        "NYRI4": {
+            "Couve/master": [
+                "aliucord/couve"
+            ],
+            "LilyPichu/main": [
+                "aliucord/lilypichu-dark"
+            ],
+            "Comfy/master": [
+                "aliucord/comfy"
+            ]
+        },
+        "Jahykun": {
+            "CherryTheme/main": [
+                "CherryTheme"
+            ]
+        },
+        "SethsterToast": {
+            "Black-Cherry-Aliucord-Theme/main": [
+                "Black_Cherry"
+            ]
+        },
+        "Err0r420": {
+            "My-Theme/main": [
+                "SimpleChanges"
+            ],
+            "Theme-Revamp/main": [
+                "Revamp"
+            ]
+        },
+        "n3rd3x3": {
+            "aliucord/main": [
+                "themes/pacific%20dream",
+                "themes/green%20sea"
+            ]
+        },
+        "Pukimaa": {
+            "AliucordThemes/master": [
+                "Phoenix/phoenix_theme"
+            ]
+        },
+        "Wolfkid200444": {
+            "AliucordThemes/main": [
+                "Spectra"
+            ]
+        },
+        "X1nto": {
+            "AliucordThemes/master": [
+                "MidnightCord/midnightcord"
+            ]
+        },
+        "hyblocker-discord": {
+            "pixelcord-mobile/main": [
+                "DiscordThemer_pixelcord"
+            ]
+        },
+        "GangsterFox": {
+            "AliuFox-themes/main": [
+                "Cozy202KDark",
+                "Cozy202K"
+            ]
+        },
+        "Darkempire78": {
+            "Aliucord-Dracula-Theme/main": [
+                "Dracula/Dracula%20Theme"
+            ]
+        },
+        "hairyfred": {
+            "Aliucord-AMOLED-Theme/main": [
+                "DiscordThemer_Amoled"
+            ]
+        },
+        "vicefriedrice": {
+            "MatuNight/main": [
+                "MatuNight"
+            ]
+        }
+    },
+    "gl": {
+        "Grzesiek11": {
+            "aliucord-theme-mirror/master": [
+                "themes/ATMS(Copy)",
+                "themes/Among%20Us%20Theme",
+                "themes/AnimeVibe",
+                "themes/BetterDefault",
+                "themes/BlueFruit%20theme",
+                "themes/Blueish_Pixels",
+                "themes/Blurple%20With%20Purple",
+                "themes/BreezeCord",
+                "themes/CalmLandscape",
+                "themes/Cherry",
+                "themes/Cotton%20Candy",
+                "themes/Crimson%20moon",
+                "themes/Cyber",
+                "themes/Dark%20Matter",
+                "themes/DarkForest",
+                "themes/DarkNighter",
+                "themes/Day_And_Night",
+                "themes/Emptiness",
+                "themes/Firefly",
+                "themes/GoldenRiver",
+                "themes/GradientBlue",
+                "themes/Greenscape",
+                "themes/HuTaoSimp",
+                "themes/Jalurple",
+                "themes/Kaitekina%20shian",
+                "themes/Kirby",
+                "themes/Lake%26Pines",
+                "themes/LandScape%2B",
+                "themes/LandScape",
+                "themes/LanternRite_2.0",
+                "themes/Leo",
+                "themes/Lonely%20Tree",
+                "themes/Magenta%20WhatsCord",
+                "themes/Material%20Aliucord",
+                "themes/MidnightMars",
+                "themes/Monterey",
+                "themes/Neko",
+                "themes/NorthenLightsBlue",
+                "themes/NorthernLightsGreen",
+                "themes/Planetarium",
+                "themes/RealDark",
+                "themes/RevertRebrand",
+                "themes/RobCo%20Unified%20Operating%20System",
+                "themes/SapphireMountains",
+                "themes/SuperNova%2B%2B",
+                "themes/TheCosmonauteInTheUniverse",
+                "themes/Transparent",
+                "themes/Vixtra",
+                "themes/Whatscord",
+                "themes/Wild%20Sunrise",
+                "themes/Windows11Theme",
+                "themes/Windows98Theme",
+                "themes/WindowsXPTheme",
+                "themes/XiaoSimp",
+                "themes/YoRHa",
+                "themes/actuallygradient",
+                "themes/atom",
+                "themes/cinnamon",
+                "themes/darkpink",
+                "themes/edo-murasaki",
+                "themes/filterHexagon",
+                "themes/gween",
+                "themes/midnight%20blurple",
+                "themes/night%20street",
+                "themes/outervoid",
+                "themes/peatheme",
+                "themes/pixelcord",
+                "themes/policy",
+                "themes/policygreen",
+                "themes/policypink",
+                "themes/smagenta",
+                "themes/ゲームウェーブカラー"
+            ]
+        }
+    }
+}
