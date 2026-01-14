@@ -16,7 +16,7 @@ jq -r '
     branch="$4"
     path="$5"
 
-    url="https://cdn.statically.io/$code/$owner/$repo/$branch/$path.json"
+    url="https://cdn.statically.io/$code/$owner/$repo@$branch/$path.json"
 
     curl -sLf "$url" | jq -c --arg owner "$owner" --arg url "$url" --arg repoUrl "https://github.com/$owner/$repo" --arg filename "${path##*/}" '\''.manifest | {
         name: (.name // $filename),
